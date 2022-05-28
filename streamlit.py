@@ -1,7 +1,7 @@
 import streamlit as st
-import cv2 as cv
 from PIL import Image
 from classes import Picture, Visualization, Pil_Picture
+
 st.sidebar.header('Color extractor')
 upload_image = st.sidebar.file_uploader('Drop image here')
 
