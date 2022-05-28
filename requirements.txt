@@ -2,5 +2,5 @@ pandas
 numpy
 easydev
 colormap
-opencv-python
+opencv-python-headless
 extcolors
