@@ -6,3 +6,4 @@ easydev
 colormap
 opencv-python-headless
 extcolors
+squarify
